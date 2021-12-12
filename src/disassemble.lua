@@ -1,3 +1,5 @@
+-- This is pretty scuffed code. I will rewrite it later
+
 local format, typev, string, concat = string.format, type, tostring, table.concat;
 local op = {};
 
