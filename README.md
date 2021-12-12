@@ -1,6 +1,7 @@
 # Luau Dissasembler
 This is an effient luau dissasembler made in Lua 5.1.
 
+*(obviously not as fast as ones made in cpp but pretty damn fast for lua)*
 ## Usage
 ```bash
 lua main.lua [file]
