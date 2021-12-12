@@ -1,10 +1,11 @@
 # Luau Dissasembler
 This is an effient luau dissasembler made in Lua 5.1.
 
-*(obviously not as fast as ones made in cpp but pretty damn fast for lua)*
+![preview](https://cdn.avonis.app/422f3ebc.png)
+
 ## Usage
 ```bash
-lua main.lua [file]
+lua main.lua [luauc file]
 ```
 
 ## Roblox Bytecode
