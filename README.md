@@ -6,13 +6,6 @@ This is an effient luau dissasembler made in Lua 5.1.
 lua main.lua [file]
 ```
 
-## How to compile luau files
-> You need https://github.com/Roblox/luau installed
-
-```bash
-luau --compile=binary [file] > compiled.out
-```
-
 ## Roblox Bytecode
 Due to obvious reasons disassembling Roblox bytecode will not have opcode information or register deduction, however this can be easily fixed by remapping the opcodes in op.lua, but this is not needed to disassemble Roblox bytecode.
 
@@ -37,3 +30,10 @@ Instructions[5]
 > [5->65666] 130 { 0, 1, 0 }
 ```
 as you can see, all opcode names are missing except NOP.
+
+## How to compile luau files
+> You need https://github.com/Roblox/luau installed
+
+```bash
+luau --compile=binary [file] > compiled.out
+```
