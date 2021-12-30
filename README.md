@@ -1,5 +1,5 @@
 # Luau Dissasembler
-This is an effient luau dissasembler made in Lua 5.1.
+This is an effient luau dissasembler made in Lua 5.1. (THIS IS NOT FINISHED)
 
 ![preview](https://cdn.avonis.app/422f3ebc.png)
 
